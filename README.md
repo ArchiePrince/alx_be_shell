@@ -12,3 +12,6 @@ This adds execute permission to the owner of the file hello
 
 # 6-multiple_permissions
 This adds execute permission to the owner and the group owner, and read permission to the other users, to the file hello.
+
+# 9-John_Doe
+Sets mode of the file hello: -rwxr-x-wx
